@@ -1,6 +1,6 @@
 OpenCV--机器人计算机视觉  
 基于计算机视觉智能车寻路系统    
---HUST-STI-Power_ON-P3 
+--HUST--STI--Power_ON--P3 
 
 作品简介
 >整个系统基于windows10中的Visual Studio 2017开发，图像识别使用OpenCV的开源识别库。  
